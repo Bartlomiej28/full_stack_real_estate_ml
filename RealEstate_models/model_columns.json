@@ -1,0 +1,16 @@
+[
+    "OverallQual", "GrLivArea", "GarageCars", "TotalBsmtSF", "1stFlrSF",
+    "YearBuilt", "FullBath", "TotRmsAbvGrd", "Fireplaces",
+    "KitchenQual_Ex", "KitchenQual_Fa", "KitchenQual_Gd", "KitchenQual_TA",
+    "Neighborhood_Blmngtn", "Neighborhood_Blueste", "Neighborhood_BrDale",
+    "Neighborhood_BrkSide", "Neighborhood_ClearCr", "Neighborhood_CollgCr",
+    "Neighborhood_Crawfor", "Neighborhood_Edwards", "Neighborhood_Gilbert",
+    "Neighborhood_IDOTRR", "Neighborhood_MeadowV", "Neighborhood_Mitchel",
+    "Neighborhood_NAmes", "Neighborhood_NPkVill", "Neighborhood_NWAmes",
+    "Neighborhood_NoRidge", "Neighborhood_NridgHt", "Neighborhood_OldTown",
+    "Neighborhood_SWISU", "Neighborhood_Sawyer", "Neighborhood_SawyerW",
+    "Neighborhood_Somerst", "Neighborhood_StoneBr", "Neighborhood_Timber",
+    "Neighborhood_Veenker",
+    "SaleCondition_Abnorml", "SaleCondition_AdjLand", "SaleCondition_Alloca",
+    "SaleCondition_Family", "SaleCondition_Normal", "SaleCondition_Partial"
+]
